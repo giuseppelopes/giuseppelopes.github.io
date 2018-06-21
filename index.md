@@ -4,6 +4,10 @@ In this page I will (try) center all little things which other can needs to fix.
 
 ### List of content
 
-[How to check Oracle Timezone](oracle-timezone.md)
+[Oracle Stuffs](oracle.md)
+1. How to Clean all Objects in a Oracle Database (oracle.md#clean-database).
+2. How to check timezone in Oracle Database (oracle.md#check-timezone).
+
+
 
 
